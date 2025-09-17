@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(224, 224, 224);
+}
+h1 {
+    background-color: rgb(62, 194, 84);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2 {
+    background-color: rgb(62, 194, 84);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+li {
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+footer {
+    background-color: rgb(189, 189, 189);
+}
+
+#floatText {
+    float: left;
+}
+
+img {
+    float: right;
+    margin: 0 0 0 15px;
+}
