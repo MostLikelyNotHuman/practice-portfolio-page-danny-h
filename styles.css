@@ -1,5 +1,6 @@
 body {
     background-color: rgb(255, 255, 255);
+    margin: 0 0 0;
 }
 header {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -23,12 +24,23 @@ p {
 li {
     font-size: large;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0 40px;
 }
 footer {
     background-color: rgb(62, 194, 84);
     text-align: center;
 }
 
-.whatever {
-    margin-left: 20px;
+.about {
+    margin: 0 40px;
+}
+
+img {
+    margin: 0 40px;
+    float: right;
+    border: 10px solid rgb(62, 194, 84);
+}
+
+.skills {
+    clear:both;
 }
